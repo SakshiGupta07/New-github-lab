@@ -1,2 +1,1 @@
-# New-github-lab
-Hi, this is my new github repository
+I am editing the README file. Adding some more details about the project description.
